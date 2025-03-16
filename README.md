@@ -5,6 +5,11 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sadia2110&label=Profile%20views&color=0E75B6&style=flat" alt="sadia2110" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadia2110" alt="sadia2110" /></a> </p>
 
 - 🔭 I’m currently working on **Her Power Project**
